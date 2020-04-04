@@ -52,6 +52,5 @@ function Update()
 	then
 		result = result..'GB'
 	end
-	print(result)
 	return result
 end
